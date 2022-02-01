@@ -4,4 +4,4 @@ This is a deployment from a p5.js project created in the online editor. All cred
 
 The code written for this project can be primarily found in [sketch.js](sketch.js)
 
-[**View Deployment**]()
+[**View Deployment**](https://littletealeaf.github.io/GDD-140-Exercise-1.0/)
