@@ -22,4 +22,5 @@ function draw() {
   rect(width/2,height/2,75,75);
   fill(0,255,100);
   ellipse(width/2,height/2,70,40);
+  arc(width/2,height/2,200,200,10,10);
 }
